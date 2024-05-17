@@ -1,4 +1,8 @@
 # mechero_electronico
-Repositorio para los codiogs/recursos para el proyecto del mechero electronico.
+Repositorio para los codiogs/recursos para el proyecto del banco de pruebas que incluye pero no esta limitado a: Mechero, Antenas, SD, Celda de carga.
 
-Carpeta de transitor : Como hacer funcinoar/codigo ejemplo y esquema.
+Mechero Electronico : 
+  Carpeta de transitor : Como hacer funcinoar/codigo ejemplo y esquema.
+
+Antenas : 
+  
